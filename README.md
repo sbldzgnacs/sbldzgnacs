@@ -17,6 +17,7 @@ I am a graduate of Trakya University with a degree in Econometrics and currently
 If you’d like to reach out to me:
 - 📧 [Email](mailto:sibelduzgunacis@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sibelduzgnacis)
+- [CV](https://drive.google.com/file/d/1-AhFxVBvI8VgwerV1UcbR66yWWZgCwOM/view?usp=sharing)
 
 ---
 
