@@ -1,26 +1,26 @@
-# Merhaba! Ben Sibel Düzgün Açış 👋
+# Hello! I’m Sibel Düzgün Açış 👋
 
-## Hakkımda
-Ben Trakya Üniversitesi Ekonometri (Lisans) bölümünden mezun bir veri analistiyim. Veri analizi ve istatistik konusundaki tutkum sayesinde, büyük veri setlerini analiz ederek anlamlı içgörüler elde etmeye odaklanıyorum. Python, SQL ve Power BI gibi araçlar kullanarak iş stratejilerini destekleyen projelerde yer alıyorum.
+## About Me
+I am a graduate of Trakya University with a degree in Econometrics and currently working as a data analyst. Driven by my passion for data analysis and statistics, I focus on extracting meaningful insights from large datasets. I utilize tools such as Python, SQL, and Power BI to support projects that enhance business strategies.
 
-## Yeteneklerim
+## My Skills
 
-- **Programlama Dilleri:** Python, SQL
-- **Veri Analizi:** Veri temizleme, analiz ve modelleme
-- **Veri Görselleştirme:** Raporlama ve etkileşimli paneller tasarlama
-- **Power BI:** Görselleştirme ve raporlama için Power BI kullanımı
-- **İstatistik:** İstatistiksel analiz ve hipotez testleri
-- **İş Birliği:** Çeşitli ekiplerle ortak projeler yürütme
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Data cleaning, analysis, and modeling
+- **Data Visualization:** Creating reports and interactive dashboards
+- **Power BI:** Utilizing Power BI for visualization and reporting
+- **Statistics:** Statistical analysis and hypothesis testing
+- **Collaboration:** Working on joint projects with diverse teams
 
-## İletişim
+## Contact
 
-Bana ulaşmak isterseniz:
-- 📧 [E-posta](mailto:sibelduzgunacis@gmail.com)
+If you’d like to reach out to me:
+- 📧 [Email](mailto:sibelduzgunacis@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sibelduzgnacis)
 
 ---
 
-✨ **Veriyle dolu bir yolculuğa hazır mısınız?**
+✨ **Are you ready for a journey filled with data?**
 
 
 
